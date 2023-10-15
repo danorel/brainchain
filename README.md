@@ -1,6 +1,6 @@
-# foobar
+# brainchain
 
-foobar is a Python project for dealing with ...
+brainchain is a Python project for dealing with LLMs using LangChain
 
 ## Installation & Contributing
 
@@ -9,7 +9,7 @@ Use the [DEVELOPER.md](./DEVELOPER.md) guide to run or contribute to the project
 ## Usage
 
 ```python
-python -m main.py
+jupyter lab
 ```
 
 ## License
